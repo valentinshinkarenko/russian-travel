@@ -1,0 +1,12 @@
+.header__lang-link_en {
+  padding-left: 18px;
+  width: 30px;
+  height: 28px;
+}
+
+@media screen and (max-width:767px) {
+  .header__lang-link_en {
+    width: 22px;
+    height: 20px;
+  }
+}

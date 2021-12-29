@@ -1,0 +1,32 @@
+.place {
+  max-width: 984px;
+  max-height: 660px;
+  display: grid;
+  grid-template-areas:
+  "place__title place__website"
+  "place__img place__paragraphs";
+}
+
+@media screen and (max-width:1184px) {
+  .place {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .place {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .place {
+    max-width: 320px;
+    max-height: 1042px;
+    grid-template-areas:
+    "place__title"
+    "place__website"
+    "place__img"
+    "place__paragraphs";
+  }
+}

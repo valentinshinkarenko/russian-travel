@@ -1,0 +1,14 @@
+.place__website {
+  grid-area: place__website;
+  max-width: 484px;
+  margin: auto auto 60px 40px;
+}
+
+@media screen and (max-width:767px) {
+  .place__website {
+    max-width: 288px;
+    margin: 0;
+    padding: 0 16px 32px;
+  }
+}
+
