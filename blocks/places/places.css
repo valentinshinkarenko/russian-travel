@@ -3,6 +3,7 @@
   max-width: 984px;
   display: grid;
   grid-row-gap: 80px;
+  margin: 0 auto;
 }
 
 @media screen and (max-width:1184px) {
@@ -16,6 +17,7 @@
   .places {
     max-width: 720px;
     padding: 0 24px 90px;
+    grid-row-gap: 73px;
   }
 }
 
@@ -23,5 +25,6 @@
   .places {
     max-width: 720px;
     padding: 0 0 66px;
+    grid-row-gap: 50px;
   }
 }

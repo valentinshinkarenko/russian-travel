@@ -1,7 +1,13 @@
 .header__lang {
+  padding: auto 0 auto 18px;
   padding-left: 18px;
   width: 30px;
-  height: 28px;
+  text-decoration: none;
+  color: #FFFFFF;;
+}
+
+.header__lang:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width:767px) {
