@@ -1,5 +1,5 @@
-# Проект: Путешествие по России
+# Project: Travel in Russia
 
-[Посмотреть на страницу можно здесь](https://valentinshinkarenko.github.io/russian-travel/index.html)
+[You can see the page here](https://valentinshinkarenko.github.io/russian-travel/index.html)
 
-В данной учебной работе акцент был сделан на изучении адаптивной верстки. Страница была сверстана по макету в Figme для устройств с часто встречающимися разрешениями экрана, от мобильных устройст до мониторов с большим разрешением.
+In this work, the emphasis was on the study of responsive layout. The project was created using Figma's design layouts and has been adapted for devices with different screen resolutions: from mobile devices to high-resolution monitors.
